@@ -24,7 +24,11 @@
 }
 
 #navbar-menu li {
-  border: 1px solid blue;
+  border: 1.5px solid blue;
+}
+
+#navbar-menu li:hover{
+  background-color:lightgrey;
 }
 
 h2 {
